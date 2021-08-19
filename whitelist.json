@@ -1,0 +1,113 @@
+{
+    "steam:110000145633d77": [
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "DRAGBMWM3"
+        }
+    ],
+    "steam:110000106b94772": [
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "NM_RS7"
+        }
+    ],
+    "steam:110000143399106": [
+        {
+            "allowed": true,
+            "owner": false,
+            "spawncode": "SHIPWRECK"
+        }
+    ],
+    "steam:110000143adebea": [
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "DABABY"
+        },
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "RHAPSODY"
+        },
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "SMGMINI"
+        },
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "ROCKERBMX"
+        },
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "DRAGNOVA"
+        },
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "SKART"
+        },
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "SERV_ELECTRICSCOOTER"
+        }
+    ],
+    "steam:11000013d4e79f5": [
+        {
+            "allowed": true,
+            "owner": false,
+            "spawncode": "SERV_ELECTRICSCOOTER"
+        },
+        {
+            "allowed": true,
+            "owner": false,
+            "spawncode": "DABABY"
+        },
+        {
+            "allowed": true,
+            "owner": false,
+            "spawncode": "RHAPSODY"
+        },
+        {
+            "allowed": true,
+            "owner": false,
+            "spawncode": "ROCKERBMX"
+        },
+        {
+            "allowed": true,
+            "owner": false,
+            "spawncode": "SMGMINI"
+        },
+        {
+            "allowed": true,
+            "owner": false,
+            "spawncode": "SKART"
+        }
+    ],
+    "steam:11000013c422fd2": [
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "SHIPWRECK"
+        }
+    ],
+    "steam:1100001184071ae": [
+        {
+            "allowed": true,
+            "owner": true,
+            "spawncode": "BLACKMAMBA"
+        }
+    ],
+    "steam:110000132c15aa3": [
+        {
+            "allowed": true,
+            "owner": false,
+            "spawncode": "DRAGBMWM3"
+        }
+    ]
+}
